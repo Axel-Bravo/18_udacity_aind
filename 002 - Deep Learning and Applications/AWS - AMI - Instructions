@@ -1,0 +1,17 @@
+ 1- Initialize the desired AMI in the AWS panel
+ 2- Copy the public instance DNS
+ 3- Putty:
+  3.1 - Load the AIND_UC profile
+  3.2 - Modifiy the "Host Name", with the new public DNS
+  3.3 - Verify on "SSH > Auth", the proper Private key
+  3.4 -  "SSH > Tunnels":
+    Source port: 8888
+    Destination: http://127.0.0.1:8888
+    Local
+    Auto
+    "Then click "Add""
+  3.5 - Open
+  3.6 - Acept "Warning server new, trust?"
+4- Terminal:
+  $ source activate tensorflow_p36
+  $ jupyter notebook
