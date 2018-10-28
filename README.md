@@ -66,6 +66,7 @@ Read more [here](/002%20-%20Deep%20Learning%20and%20Applications/003%20-%20Dog%2
 
 ### 2. Time Series Prediction and text Generation
 Recurrent Neural Networks course project: time series prediction and text generation
+
 Read more [here](/002%20-%20Deep%20Learning%20and%20Applications/010%20-%20Time%20Series%20Prediction%20and%20Text%20Generation%20-%20Project)
 
 
@@ -84,4 +85,4 @@ Read more [here](/003%20-%20Natural%20Language%20Processing/002%20-%20Bookworm%2
 ### 2. Machine Translation 
 In this notebook, you will build a deep neural network that functions as part of an end-to-end machine translation pipeline. Your completed pipeline will accept English text as input and return the French translation.
 
-Read more [here](/0033%20-3%20Natural3%20Language3%20Processing/0053%20-3%20Machine3%20Translation3%20-3%20Project)
+Read more [here](/003%20-%20Natural%20Language%20Processing/005%20-%20Machine%20Translation%20-%20Project)
